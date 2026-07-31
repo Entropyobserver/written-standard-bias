@@ -1,8 +1,0 @@
-{
-  "seed": 42,
-  "shift_items": 20,
-  "control_items": 20,
-  "total_items": 40,
-  "annotation_sheet": "D:\\J\\Desktop\\language_technology\\course\\projects_AI\\mt_oil_no_bokmal\\outputs\\human_eval\\human_eval_sheet.csv",
-  "hidden_key": "D:\\J\\Desktop\\language_technology\\course\\projects_AI\\mt_oil_no_bokmal\\outputs\\human_eval\\human_eval_key.csv"
-}

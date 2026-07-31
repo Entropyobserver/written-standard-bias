@@ -1,0 +1,9 @@
+{
+  "original_train": "data\\final_splits_npd\\train.json",
+  "bokmal_train": "data\\final_splits_npd_bokmal\\train.jsonl",
+  "original_size": 13935,
+  "retained_size": 10114,
+  "removed_size": 3821,
+  "retained_pct": 72.58,
+  "removed_pct": 27.42
+}

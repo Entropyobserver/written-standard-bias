@@ -1,0 +1,45 @@
+﻿item_id,review_label,slide_label,pool,field,slide_nb,slide_nn,sentence,notes
+S002,mixed,nn_only,original_subsampled_prediction,prediction,0.19020283222198486,0.950982391834259,Dette er den sjuande letebrønnen i utvinningstillatelse 532.,Nynorsk sjuande with Bokmal utvinningstillatelse
+S004,mixed,nb_only,original_reference,reference,0.9961568713188171,0.0032929747831076384,Målet for avgrensingsbrønnen 6406/9-2 var å avgrense funnet.,avgrensings- cue with Bokmal-like funnet
+S006,uncertain,mixed,bokmal_prediction,prediction,0.5314003825187683,0.9582469463348389,"Arvid Østhus, underdirektør Utbygging og drift, tel.",mostly name/title/contact fragment
+S007,nb_only,mixed,original_reference,reference,0.9943101406097412,0.6403148174285889,Det går fram av Oljedirektoratets nye ressursrapport.,Bokmal-looking institutional prose
+S008,nb_only,uncertain,original_subsampled_prediction,prediction,0.025453666225075722,0.0008921172702684999,Både Gjallarryggen og Vøringsutstikkeren er koblet til Jan Mayen-brudssonen.,koblet and Bokmal morphology
+S009,uncertain,mixed,original_subsampled_prediction,prediction,0.9210014343261719,0.8152470588684082,"Væskeproduksjonen i oktober fordeler seg slik: 1 868 000 fat olje, 278 000 fat NGL og 84 000 fat kondensat.",mostly numeric production formula; weak written-standard cues
+S010,uncertain,mixed,bokmal_prediction,prediction,0.8798195719718933,0.8952447175979614,Planlagt produksjonsstart er i 2020.,short ambiguous production-start fragment
+S012,uncertain,nn_only,bokmal_prediction,prediction,0.410332053899765,0.9890502691268921,"Kontakt i Oljedirektoratet Bjørn Rasen, tel.",contact fragment
+S016,uncertain,mixed,original_reference,reference,0.9892114400863647,0.9522485733032227,Kontaktperson i OD: Morten Sand,contact fragment
+S018,uncertain,mixed,original_reference,reference,0.9220400452613831,0.9925649166107178,IOR-prisen til Statoil for undergrunnsarbeidet på Osebergfeltet >,short title with weak standard cues
+S019,nb_only,uncertain,bokmal_prediction,prediction,0.4135059416294098,0.00043275521602481604,Den første dagen i hver måned er markeret med gule punkter.,hver/punkter; markeret appears nonstandard but NB-like
+S023,uncertain,mixed,original_reference,reference,0.9426717758178711,0.7173551917076111,"Væskeproduksjonen i august fordeler seg slik: 1 548 000 fat olje, 340 000 fat NGL og 30 000 fat kondensat i gjennomsnitt per dag.",mostly numeric production formula; weak written-standard cues
+S026,nb_only,mixed,original_subsampled_prediction,prediction,0.7874770760536194,0.9578118324279785,Fase 1 (syden) er planlagt å starte produksjon i 2020 og fase 2 (norden) i 2023.,Bokmal planlagt a starte; syden/norden odd but directional
+S027,uncertain,mixed,original_subsampled_prediction,prediction,0.9770415425300598,0.898998498916626,Pil/Bue er to olje- og gassfunn i Norskehavet.,short term/title with shared forms
+S028,uncertain,mixed,original_reference,reference,0.900421142578125,0.9749730825424194,Troll oljefelt,short title with shared forms
+S029,nb_only,mixed,original_reference,reference,0.9821851849555969,0.5392152070999146,Brønnen påviste olje i Brentgruppen og i Statfjordformasjonen.,Brønnen påviste... Bokmal-style sentence
+S032,nb_only,uncertain,bokmal_prediction,prediction,0.006792327854782343,0.10563214868307114,Ressurser per havareal,ressurser
+S039,mixed,nn_only,original_subsampled_prediction,prediction,0.0044740852899849415,0.9941054582595825,"Dette er den første letebrønnen som bores i løyvet, men den tredje brønnen i arealet som løyvet ligg i.",Bokmal bores/letebronnen with Nynorsk loyvet/ligg
+S041,nb_only,uncertain,bokmal_prediction,prediction,0.3182838261127472,0.07768525928258896,Leting >>,leting rather than leiting
+S043,uncertain,mixed,original_reference,reference,0.8927317261695862,0.9698815941810608,Produksjonsstart på Njord var i 1997.,short sentence with weak standard cues
+S045,mixed,nn_only,original_reference,reference,0.0009321602992713451,0.997400164604187,Endelege produksjonstal vil bli gjort offentleg i begynnelsen av november 2003.,Nynorsk endelege/offentleg with Bokmal begynnelsen
+S047,mixed,uncertain,original_subsampled_prediction,prediction,0.14826194941997528,0.4658542573451996,Erfaring fra drift og vedlikehald av ubemannede plattformer,Bokmal fra/ubemannede with Nynorsk vedlikehald
+S048,mixed,nn_only,original_reference,reference,0.0008142071892507374,0.9995827078819275,Ifølge NPF er IO inne i ein ny vår.,Bokmal Ifolge with Nynorsk ein
+S051,uncertain,mixed,original_reference,reference,0.983363151550293,0.7049823999404907,StatoilHydro ASA:,organization name only
+S055,uncertain,mixed,original_reference,reference,0.9441472887992859,0.9542948007583618,Statoil Petroleum AS er operatør med 40 prosent del.,short sentence with mostly shared terms
+S061,uncertain,mixed,original_subsampled_prediction,prediction,0.9707314372062683,0.9800745248794556,"Arvid Østhus, underdirektør Utbygging og drift, tlf.",contact fragment
+S064,mixed,uncertain,original_subsampled_prediction,prediction,5.6361248425673693e-05,0.3883824944496155,Første dag i månaden er markeret med gule prikker.,Nynorsk manaden with Bokmal prikker/markeret
+S069,uncertain,nn_only,bokmal_prediction,prediction,0.45844027400016785,0.9808068871498108,+47 51 87 61 00,phone number only
+S079,uncertain,mixed,original_subsampled_prediction,prediction,0.9688119292259216,0.6077077984809875,Last ned pdf: Kart,short UI fragment
+S080,uncertain,mixed,original_subsampled_prediction,prediction,0.9882773756980896,0.9335578083992004,"Kontaktperson i Oljedirektoratet Bjørn Rasen, tlf.",contact fragment
+S084,uncertain,mixed,original_subsampled_prediction,prediction,0.9787505865097046,0.9739002585411072,Det var nye rekord.,short ungrammatical fragment
+S085,uncertain,mixed,original_reference,reference,0.9387876987457275,0.927379846572876,Franklin Petroleum Limited,company name only
+S086,uncertain,mixed,original_reference,reference,0.9944656491279602,0.9922224879264832,"Kalmar Ildstad, Nordsjøen sør",short title/name
+S091,uncertain,mixed,original_subsampled_prediction,prediction,0.9387876987457275,0.927379846572876,Franklin Petroleum Limited,company name only
+S093,uncertain,mixed,bokmal_prediction,prediction,0.9125092625617981,0.8808704614639282,Oljeproduksjonen er 4 prosent over ODs prognose for april og 2 prosent over oljeproduksjonen i april i fjor.,mostly shared forms; weak written-standard cues
+S097,uncertain,mixed,original_subsampled_prediction,prediction,0.7277916669845581,0.8942756652832031,51 87 64 74,phone number only
+S104,uncertain,mixed,bokmal_prediction,prediction,0.8901214599609375,0.9613094329833984,Fase 1 (sør) er planlagt i produksjon i 2020 og fase 2 (nord) i 2023.,planning sentence with mostly shared forms
+S108,uncertain,mixed,original_reference,reference,0.9904679656028748,0.8361536860466003,Hroar Hermansen får takk for innsatsen av oljedirektør Bente Nyland.,short sentence with weak written-standard cues
+S111,uncertain,mixed,original_subsampled_prediction,prediction,0.5858793258666992,0.7327502369880676,Telefon/ E-post,short UI heading
+S112,mixed,nb_only,original_subsampled_prediction,prediction,0.9400502443313599,0.4317646324634552,Undersøkingsbrønn 7120/1-3 er den første leitebrønnen i utvinningstillatelse 492.,Nynorsk undersokings-/leitebronn with Bokmal utvinningstillatelse
+S113,uncertain,mixed,original_reference,reference,0.9485007524490356,0.64566969871521,"Væskeproduksjonen i januar fordeler seg slik: 1 627 000 fat olje, 378 000 fat NGL og 32 000 fat kondensat i gjennomsnitt per dag.",mostly numeric production formula; weak written-standard cues
+S116,uncertain,mixed,original_subsampled_prediction,prediction,0.9482381939888,0.927692174911499,"Morten Smelror, direktør for NGU, og oljedirektør Bente Nyland er glade for den nye avtalen.",short sentence with mostly shared forms
+S117,uncertain,mixed,original_reference,reference,0.9283807277679443,0.8727800250053406,Gass/olje-forholdet er ca.,short technical fragment
+S120,uncertain,mixed,original_reference,reference,0.9144219756126404,0.9771527051925659,"Bjørn Rasen, tlf.",contact fragment

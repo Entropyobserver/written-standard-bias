@@ -1,0 +1,89 @@
+{
+  "n_annotated": 120,
+  "n_skipped_blank": 0,
+  "skipped_item_ids": [],
+  "accuracy": 0.6416666666666667,
+  "macro_f1": 0.586497505172204,
+  "cohen_kappa_slide_vs_human": 0.5222222222222223,
+  "per_label": {
+    "nb_only": {
+      "precision": 0.9666666666666667,
+      "recall": 0.8055555555555556,
+      "f1": 0.8787878787878789,
+      "support_human": 36,
+      "support_slide": 30
+    },
+    "nn_only": {
+      "precision": 0.8,
+      "recall": 1.0,
+      "f1": 0.888888888888889,
+      "support_human": 24,
+      "support_slide": 30
+    },
+    "mixed": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support_human": 7,
+      "support_slide": 30
+    },
+    "uncertain": {
+      "precision": 0.8,
+      "recall": 0.4528301886792453,
+      "f1": 0.5783132530120482,
+      "support_human": 53,
+      "support_slide": 30
+    }
+  },
+  "confusion_matrix_rows_human_cols_slide": {
+    "nb_only": {
+      "nb_only": 29,
+      "nn_only": 0,
+      "mixed": 3,
+      "uncertain": 4
+    },
+    "nn_only": {
+      "nb_only": 0,
+      "nn_only": 24,
+      "mixed": 0,
+      "uncertain": 0
+    },
+    "mixed": {
+      "nb_only": 1,
+      "nn_only": 4,
+      "mixed": 0,
+      "uncertain": 2
+    },
+    "uncertain": {
+      "nb_only": 0,
+      "nn_only": 2,
+      "mixed": 27,
+      "uncertain": 24
+    }
+  },
+  "by_pool": {
+    "bokmal_prediction": {
+      "n": 17,
+      "accuracy": 0.47058823529411764
+    },
+    "original_reference": {
+      "n": 51,
+      "accuracy": 0.6666666666666666
+    },
+    "original_subsampled_prediction": {
+      "n": 52,
+      "accuracy": 0.6730769230769231
+    }
+  },
+  "by_field": {
+    "prediction": {
+      "n": 69,
+      "accuracy": 0.6231884057971014
+    },
+    "reference": {
+      "n": 51,
+      "accuracy": 0.6666666666666666
+    }
+  },
+  "note": "Rows are human labels and columns are SLIDE labels. The validation sample is stratified and is not a prevalence estimate."
+}

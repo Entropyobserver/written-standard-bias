@@ -1,0 +1,22 @@
+﻿item_id,review1,review2,slide,sentence,review1_notes,review2_notes
+S004,mixed,nb_only,nb_only,Målet for avgrensingsbrønnen 6406/9-2 var å avgrense funnet.,avgrensings- cue with Bokmal-like funnet,
+S009,uncertain,nb_only,mixed,"Væskeproduksjonen i oktober fordeler seg slik: 1 868 000 fat olje, 278 000 fat NGL og 84 000 fat kondensat.",mostly numeric production formula; weak written-standard cues,
+S010,uncertain,nb_only,mixed,Planlagt produksjonsstart er i 2020.,short ambiguous production-start fragment,
+S017,nn_only,mixed,nn_only,"Arealet i dette løyvet består av delar av blokkene 25/5, 25/6, 25/8 og 25/9.",loyvet/delar,"løyvet/""delar"" (nn) + ""blokkene"" (nb)"
+S018,uncertain,nb_only,mixed,IOR-prisen til Statoil for undergrunnsarbeidet på Osebergfeltet >,short title with weak standard cues,
+S023,uncertain,nb_only,mixed,"Væskeproduksjonen i august fordeler seg slik: 1 548 000 fat olje, 340 000 fat NGL og 30 000 fat kondensat i gjennomsnitt per dag.",mostly numeric production formula; weak written-standard cues,
+S024,uncertain,nb_only,uncertain,"Forbindelsen har imidlertid kun rådgivende myndighet; dersom parterne ikke kan være enige, kan Kustvakten være involvert.",contains Danish-looking parterne; not safely NB/NN,
+S027,uncertain,nb_only,mixed,Pil/Bue er to olje- og gassfunn i Norskehavet.,short term/title with shared forms,
+S040,nn_only,mixed,nn_only,"Oljedirektoratet er på jakt etter den beste strategien for utforsking av områda, og leiter derfor etter selskapa med den beste kunnskapen og dei beste søknadene, seier ho.",omrada/leitar/selskapa/seier ho,fleire nn- og nb-former
+S041,nb_only,uncertain,uncertain,Leting >>,leting rather than leiting,"kort, ""Leting"" tvilsam"
+S043,uncertain,nb_only,mixed,Produksjonsstart på Njord var i 1997.,short sentence with weak standard cues,
+S055,uncertain,nb_only,mixed,Statoil Petroleum AS er operatør med 40 prosent del.,short sentence with mostly shared terms,
+S071,nn_only,mixed,nn_only,Brønnen blir bora om lag 16 kilometer vest for Gjøafeltet.,blir bora/om lag,"blir (nb) + ""bora"" (nn)"
+S075,nn_only,mixed,nn_only,Dette er den niande brønnen som blir bora innafor løyvet sitt areal.,niande/blir bora/innafor/loyvet,"blir (nb) + ""niande""/""bora""/""innafor""/""løyvet"" (nn)"
+S084,uncertain,nb_only,mixed,Det var nye rekord.,short ungrammatical fragment,
+S087,nn_only,mixed,nn_only,"Men funna som blir gjort, er i snitt mykje mindre enn før.",funna/blir gjort/mykje,"funna/""mykje"" (nn) + ""blir"" (nb)"
+S093,uncertain,nb_only,mixed,Oljeproduksjonen er 4 prosent over ODs prognose for april og 2 prosent over oljeproduksjonen i april i fjor.,mostly shared forms; weak written-standard cues,
+S104,uncertain,nb_only,mixed,Fase 1 (sør) er planlagt i produksjon i 2020 og fase 2 (nord) i 2023.,planning sentence with mostly shared forms,
+S108,uncertain,nb_only,mixed,Hroar Hermansen får takk for innsatsen av oljedirektør Bente Nyland.,short sentence with weak written-standard cues,
+S113,uncertain,nb_only,mixed,"Væskeproduksjonen i januar fordeler seg slik: 1 627 000 fat olje, 378 000 fat NGL og 32 000 fat kondensat i gjennomsnitt per dag.",mostly numeric production formula; weak written-standard cues,
+S116,uncertain,nb_only,mixed,"Morten Smelror, direktør for NGU, og oljedirektør Bente Nyland er glade for den nye avtalen.",short sentence with mostly shared forms,

@@ -1,0 +1,19 @@
+{
+  "model": "original",
+  "test": "original",
+  "seed": 42,
+  "bleu": 0.6267218277945843,
+  "chrf": 79.7375104129717,
+  "fta": 0.7591463414634146,
+  "fta_mean_sentence": 0.7636852394916912,
+  "fta_coverage": 0.39150401836969,
+  "term_recall": 0.7591463414634146,
+  "term_precision": 0.7073863636363636,
+  "term_f1": 0.7323529411764705,
+  "term_source_coverage": 0.39150401836969,
+  "term_prediction_coverage": 0.36969001148105624,
+  "term_source_instances": 984,
+  "term_prediction_instances": 1056,
+  "term_hits": 747,
+  "term_false_positives": 309
+}

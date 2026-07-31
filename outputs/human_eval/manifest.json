@@ -1,0 +1,8 @@
+{
+  "seed": 42,
+  "shift_items": 50,
+  "control_items": 50,
+  "total_items": 100,
+  "annotation_sheet": "outputs\\human_eval\\human_eval_sheet.csv",
+  "hidden_key": "outputs\\human_eval\\human_eval_key.csv"
+}

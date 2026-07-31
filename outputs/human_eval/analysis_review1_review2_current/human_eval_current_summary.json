@@ -1,0 +1,287 @@
+{
+  "files": {
+    "review1": "D:\\J\\Desktop\\language_technology\\course\\projects_AI\\mt_oil_no_bokmal\\outputs\\human_eval\\human_eval_sheet_1.csv",
+    "review2": "D:\\J\\Desktop\\language_technology\\course\\projects_AI\\mt_oil_no_bokmal\\outputs\\human_eval\\human_eval_sheet_2.csv"
+  },
+  "qc": {
+    "n_rows": {
+      "review1": 100,
+      "review2": 100
+    },
+    "same_item_order": true,
+    "common_valid_for_agreement": 99,
+    "invalid": {
+      "review1": [],
+      "review2": [
+        "H078"
+      ]
+    },
+    "text_differences": [
+      {
+        "item_id": "H078",
+        "columns": [
+          "system_a",
+          "system_b"
+        ],
+        "review1": {
+          "system_a": "- Teknologiutvikling er en nøkkel for økt utvinning og forlenget levetid for felt på norsk sokkel, sier hovedingenjör Astri Fritsen i Oljedirektoratet.",
+          "system_b": "- Teknologiutvikling er en nøkkel for økt utvinning og lengre levetid for felt på norsk sokkel, sier hovedingenjör Astri Fritsen i Oljedirektoratet."
+        },
+        "review2": {
+          "system_a": "#NAME?",
+          "system_b": "#NAME?"
+        }
+      }
+    ]
+  },
+  "individual": {
+    "review1": {
+      "n_valid": 100,
+      "invalid": [],
+      "model_means": {
+        "bokmal": {
+          "adequacy": 1.93,
+          "bokmal": 1.92
+        },
+        "original_subsampled": {
+          "adequacy": 1.91,
+          "bokmal": 0.94
+        }
+      },
+      "delta": {
+        "adequacy": 0.02,
+        "bokmal": 0.98
+      },
+      "pref": {
+        "bokmal": 59,
+        "tie": 25,
+        "original_subsampled": 16
+      },
+      "sign_test_p_excluding_ties": 6.114156572521502e-07,
+      "by_stratum": {
+        "shift": {
+          "n": 50,
+          "pref": {
+            "bokmal": 50
+          },
+          "sign_test_p_excluding_ties": 1.7763568394002505e-15,
+          "bokmal": {
+            "adequacy": 1.98,
+            "bokmal": 2.0
+          },
+          "original_subsampled": {
+            "adequacy": 1.94,
+            "bokmal": 0.08
+          },
+          "delta_bokmal_minus_original_subsampled": {
+            "adequacy": 0.04,
+            "bokmal": 1.92
+          }
+        },
+        "control": {
+          "n": 50,
+          "pref": {
+            "tie": 25,
+            "original_subsampled": 16,
+            "bokmal": 9
+          },
+          "sign_test_p_excluding_ties": 0.2295229434967041,
+          "bokmal": {
+            "adequacy": 1.88,
+            "bokmal": 1.84
+          },
+          "original_subsampled": {
+            "adequacy": 1.88,
+            "bokmal": 1.8
+          },
+          "delta_bokmal_minus_original_subsampled": {
+            "adequacy": 0.0,
+            "bokmal": 0.04
+          }
+        }
+      }
+    },
+    "review2": {
+      "n_valid": 99,
+      "invalid": [
+        "H078"
+      ],
+      "model_means": {
+        "bokmal": {
+          "adequacy": 1.9090909090909092,
+          "bokmal": 1.8282828282828283
+        },
+        "original_subsampled": {
+          "adequacy": 1.898989898989899,
+          "bokmal": 1.0404040404040404
+        }
+      },
+      "delta": {
+        "adequacy": 0.010101010101010102,
+        "bokmal": 0.7878787878787878
+      },
+      "pref": {
+        "bokmal": 55,
+        "tie": 33,
+        "original_subsampled": 11
+      },
+      "sign_test_p_excluding_ties": 3.601449657605633e-08,
+      "by_stratum": {
+        "shift": {
+          "n": 50,
+          "pref": {
+            "bokmal": 45,
+            "original_subsampled": 3,
+            "tie": 2
+          },
+          "sign_test_p_excluding_ties": 1.312585595769633e-10,
+          "bokmal": {
+            "adequacy": 1.98,
+            "bokmal": 1.86
+          },
+          "original_subsampled": {
+            "adequacy": 1.92,
+            "bokmal": 0.28
+          },
+          "delta_bokmal_minus_original_subsampled": {
+            "adequacy": 0.06,
+            "bokmal": 1.58
+          }
+        },
+        "control": {
+          "n": 49,
+          "pref": {
+            "tie": 31,
+            "bokmal": 10,
+            "original_subsampled": 8
+          },
+          "sign_test_p_excluding_ties": 0.8145294189453125,
+          "bokmal": {
+            "adequacy": 1.836734693877551,
+            "bokmal": 1.7959183673469388
+          },
+          "original_subsampled": {
+            "adequacy": 1.8775510204081634,
+            "bokmal": 1.816326530612245
+          },
+          "delta_bokmal_minus_original_subsampled": {
+            "adequacy": -0.04081632653061224,
+            "bokmal": -0.02040816326530612
+          }
+        }
+      }
+    }
+  },
+  "inter_reviewer_agreement_on_common_valid": {
+    "adequacy_a_0_1_2": {
+      "n": 99,
+      "exact": 0.9797979797979798,
+      "kappa": 0.8225806451612901,
+      "confusion": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          5,
+          1
+        ],
+        [
+          0,
+          1,
+          92
+        ]
+      ]
+    },
+    "adequacy_b_0_1_2": {
+      "n": 99,
+      "exact": 0.9292929292929293,
+      "kappa": 0.6311868014901542,
+      "confusion": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          6,
+          2
+        ],
+        [
+          0,
+          3,
+          86
+        ]
+      ]
+    },
+    "bokmal_a_0_1_2": {
+      "n": 99,
+      "exact": 0.898989898989899,
+      "kappa": 0.796044499381953,
+      "confusion": [
+        [
+          21,
+          3,
+          1
+        ],
+        [
+          0,
+          6,
+          1
+        ],
+        [
+          2,
+          3,
+          62
+        ]
+      ]
+    },
+    "bokmal_b_0_1_2": {
+      "n": 99,
+      "exact": 0.8585858585858586,
+      "kappa": 0.7181208053691274,
+      "confusion": [
+        [
+          17,
+          3,
+          2
+        ],
+        [
+          2,
+          7,
+          2
+        ],
+        [
+          1,
+          4,
+          61
+        ]
+      ]
+    },
+    "preference_model_winner": {
+      "n": 99,
+      "exact": 0.8585858585858586,
+      "kappa": 0.75098814229249,
+      "confusion": [
+        [
+          52,
+          3,
+          4
+        ],
+        [
+          3,
+          8,
+          4
+        ],
+        [
+          0,
+          0,
+          25
+        ]
+      ]
+    }
+  }
+}

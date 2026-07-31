@@ -1,0 +1,18 @@
+{
+  "source_dir": "data\\final_splits_npd",
+  "seed": 42,
+  "splits": {
+    "train": {
+      "source_size": 13935,
+      "sampled_size": 10114
+    },
+    "val": {
+      "source_size": 1737,
+      "sampled_size": 1305
+    },
+    "test": {
+      "source_size": 1742,
+      "sampled_size": 1313
+    }
+  }
+}

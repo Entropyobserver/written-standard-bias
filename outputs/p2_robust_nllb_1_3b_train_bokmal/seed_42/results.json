@@ -1,0 +1,33 @@
+{
+  "model_id": "nllb_1_3b",
+  "data_condition": "bokmal",
+  "seed": 42,
+  "configuration": {
+    "r": 8,
+    "alpha": 64,
+    "dropout": 0.0
+  },
+  "final_model_path": "/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_robust_nllb_1_3b_train_bokmal/seed_42/training/final_model",
+  "val_bleu": 0.6347780438205699,
+  "val_chrf": 80.36065267676162,
+  "val_loss": 0.5625136494636536,
+  "test_bleu": 0.6309408913766404,
+  "test_chrf": 80.44485508825106,
+  "dataset_sizes": {
+    "train": 10114,
+    "val": 1305,
+    "test": 1313
+  },
+  "test_fta": 0.8542780748663101,
+  "test_fta_mean_sentence": 0.8396562905317771,
+  "test_fta_coverage": 0.39146991622239147,
+  "test_term_recall": 0.8542780748663101,
+  "test_term_precision": 0.738728323699422,
+  "test_term_f1": 0.7923124612523248,
+  "test_term_source_coverage": 0.39146991622239147,
+  "test_term_prediction_coverage": 0.37928408225437926,
+  "test_term_source_instances": 748,
+  "test_term_prediction_instances": 865,
+  "test_term_hits": 639,
+  "test_term_false_positives": 226
+}

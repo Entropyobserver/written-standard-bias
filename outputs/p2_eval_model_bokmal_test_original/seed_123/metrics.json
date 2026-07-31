@@ -1,0 +1,19 @@
+{
+  "model": "bokmal",
+  "test": "original",
+  "seed": 123,
+  "bleu": 0.5851928571234923,
+  "chrf": 77.31014941390015,
+  "fta": 0.8648373983739838,
+  "fta_mean_sentence": 0.8543499511241446,
+  "fta_coverage": 0.39150401836969,
+  "term_recall": 0.8648373983739838,
+  "term_precision": 0.7261092150170648,
+  "term_f1": 0.7894248608534323,
+  "term_source_coverage": 0.39150401836969,
+  "term_prediction_coverage": 0.3817451205510907,
+  "term_source_instances": 984,
+  "term_prediction_instances": 1172,
+  "term_hits": 851,
+  "term_false_positives": 321
+}

@@ -1,0 +1,20 @@
+{
+  "model_id": "nllb_600m",
+  "model": "original_subsampled",
+  "test": "original",
+  "seed": 42,
+  "bleu": 0.614304469116975,
+  "chrf": 78.93365992845331,
+  "fta": 0.7479674796747967,
+  "fta_mean_sentence": 0.7467008797653958,
+  "fta_coverage": 0.39150401836969,
+  "term_recall": 0.7479674796747967,
+  "term_precision": 0.700952380952381,
+  "term_f1": 0.7236971484759097,
+  "term_source_coverage": 0.39150401836969,
+  "term_prediction_coverage": 0.3685419058553387,
+  "term_source_instances": 984,
+  "term_prediction_instances": 1050,
+  "term_hits": 736,
+  "term_false_positives": 314
+}

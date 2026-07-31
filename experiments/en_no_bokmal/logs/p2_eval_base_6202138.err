@@ -1,0 +1,40 @@
+/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/conda_envs/mt_old_clone/lib/python3.9/site-packages/transformers/utils/hub.py:110: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+20:48:32  Paper2 eval: model=base test=original
+20:48:33  Test examples: 1742
+`torch_dtype` is deprecated! Use `dtype` instead!
+20:50:19  seed=0  BLEU=0.3717  chrF=62.04  FTA=0.27947154471544716
+20:50:19  SUMMARY  BLEU=0.3717+/-0.0000  chrF=62.04+/-0.00  FTA=0.27947154471544716
+20:50:19  Results saved to /gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_eval_model_base_test_original
+/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/conda_envs/mt_old_clone/lib/python3.9/site-packages/transformers/utils/hub.py:110: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+20:50:24  Paper2 eval: model=base test=bokmal
+20:50:24  Test examples: 1313
+`torch_dtype` is deprecated! Use `dtype` instead!
+20:51:37  seed=0  BLEU=0.3759  chrF=62.56  FTA=0.25133689839572193
+20:51:37  SUMMARY  BLEU=0.3759+/-0.0000  chrF=62.56+/-0.00  FTA=0.25133689839572193
+20:51:37  Results saved to /gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_eval_model_base_test_bokmal
+/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/conda_envs/mt_old_clone/lib/python3.9/site-packages/transformers/utils/hub.py:110: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+20:51:42  Paper2 eval: model=base test=original_subsampled
+20:51:42  Test examples: 1313
+`torch_dtype` is deprecated! Use `dtype` instead!
+20:52:54  seed=0  BLEU=0.3699  chrF=61.69  FTA=0.2839838492597577
+20:52:55  SUMMARY  BLEU=0.3699+/-0.0000  chrF=61.69+/-0.00  FTA=0.2839838492597577
+20:52:55  Results saved to /gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_eval_model_base_test_original_subsampled
+/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/conda_envs/mt_old_clone/lib/python3.9/site-packages/transformers/utils/hub.py:110: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+20:52:59  Paper2 eval: model=base test=flores_nob
+20:52:59  Test examples: 1012
+`torch_dtype` is deprecated! Use `dtype` instead!
+20:53:55  seed=0  BLEU=0.3059  chrF=59.22  FTA=0.0
+20:53:55  SUMMARY  BLEU=0.3059+/-0.0000  chrF=59.22+/-0.00  FTA=0.0
+20:53:55  Results saved to /gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_eval_model_base_test_flores_nob
+/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/conda_envs/mt_old_clone/lib/python3.9/site-packages/transformers/utils/hub.py:110: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+20:53:59  Paper2 eval: model=base test=flores_nno
+20:53:59  Test examples: 1012
+`torch_dtype` is deprecated! Use `dtype` instead!
+20:54:56  seed=0  BLEU=0.1713  chrF=50.52  FTA=0.0
+20:54:56  SUMMARY  BLEU=0.1713+/-0.0000  chrF=50.52+/-0.00  FTA=0.0
+20:54:56  Results saved to /gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_eval_model_base_test_flores_nno

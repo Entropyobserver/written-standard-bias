@@ -1,0 +1,19 @@
+{
+  "model": "original_subsampled",
+  "test": "flores_nno",
+  "seed": 42,
+  "bleu": 0.15491362650392743,
+  "chrf": 48.4447483813772,
+  "fta": 0.4,
+  "fta_mean_sentence": 0.4,
+  "fta_coverage": 0.004940711462450593,
+  "term_recall": 0.4,
+  "term_precision": 0.06896551724137931,
+  "term_f1": 0.1176470588235294,
+  "term_source_coverage": 0.004940711462450593,
+  "term_prediction_coverage": 0.02865612648221344,
+  "term_source_instances": 5,
+  "term_prediction_instances": 29,
+  "term_hits": 2,
+  "term_false_positives": 27
+}

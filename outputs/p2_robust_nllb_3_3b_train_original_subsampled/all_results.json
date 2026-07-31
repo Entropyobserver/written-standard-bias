@@ -1,0 +1,101 @@
+[
+  {
+    "model_id": "nllb_3_3b",
+    "data_condition": "original_subsampled",
+    "seed": 42,
+    "configuration": {
+      "r": 8,
+      "alpha": 64,
+      "dropout": 0.0
+    },
+    "final_model_path": "/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_robust_nllb_3_3b_train_original_subsampled/seed_42/training/final_model",
+    "val_bleu": 0.6534564309753622,
+    "val_chrf": 81.1472575368779,
+    "val_loss": 0.4961749315261841,
+    "test_bleu": 0.6494878388220274,
+    "test_chrf": 80.8511047457094,
+    "dataset_sizes": {
+      "train": 10114,
+      "val": 1305,
+      "test": 1313
+    },
+    "test_fta": 0.7537012113055181,
+    "test_fta_mean_sentence": 0.7490310077519381,
+    "test_fta_coverage": 0.392993145468393,
+    "test_term_recall": 0.7537012113055181,
+    "test_term_precision": 0.7052896725440806,
+    "test_term_f1": 0.7286922576447624,
+    "test_term_source_coverage": 0.392993145468393,
+    "test_term_prediction_coverage": 0.3670982482863671,
+    "test_term_source_instances": 743,
+    "test_term_prediction_instances": 794,
+    "test_term_hits": 560,
+    "test_term_false_positives": 234
+  },
+  {
+    "model_id": "nllb_3_3b",
+    "data_condition": "original_subsampled",
+    "seed": 123,
+    "configuration": {
+      "r": 8,
+      "alpha": 64,
+      "dropout": 0.0
+    },
+    "final_model_path": "/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_robust_nllb_3_3b_train_original_subsampled/seed_123/training/final_model",
+    "val_bleu": 0.6503429850224911,
+    "val_chrf": 80.99250276922596,
+    "val_loss": 0.49843958020210266,
+    "test_bleu": 0.6506219441079557,
+    "test_chrf": 81.05528332079908,
+    "dataset_sizes": {
+      "train": 10114,
+      "val": 1305,
+      "test": 1313
+    },
+    "test_fta": 0.784656796769852,
+    "test_fta_mean_sentence": 0.7742248062015505,
+    "test_fta_coverage": 0.392993145468393,
+    "test_term_recall": 0.784656796769852,
+    "test_term_precision": 0.7135862913096696,
+    "test_term_f1": 0.7474358974358976,
+    "test_term_source_coverage": 0.392993145468393,
+    "test_term_prediction_coverage": 0.37014470677837014,
+    "test_term_source_instances": 743,
+    "test_term_prediction_instances": 817,
+    "test_term_hits": 583,
+    "test_term_false_positives": 234
+  },
+  {
+    "model_id": "nllb_3_3b",
+    "data_condition": "original_subsampled",
+    "seed": 456,
+    "configuration": {
+      "r": 8,
+      "alpha": 64,
+      "dropout": 0.0
+    },
+    "final_model_path": "/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_robust_nllb_3_3b_train_original_subsampled/seed_456/training/final_model",
+    "val_bleu": 0.6533235349048157,
+    "val_chrf": 81.21316149579958,
+    "val_loss": 0.49179598689079285,
+    "test_bleu": 0.6528562933545667,
+    "test_chrf": 80.89272982267366,
+    "dataset_sizes": {
+      "train": 10114,
+      "val": 1305,
+      "test": 1313
+    },
+    "test_fta": 0.7711978465679677,
+    "test_fta_mean_sentence": 0.7645348837209303,
+    "test_fta_coverage": 0.392993145468393,
+    "test_term_recall": 0.7711978465679677,
+    "test_term_precision": 0.7109181141439206,
+    "test_term_f1": 0.7398321497740478,
+    "test_term_source_coverage": 0.392993145468393,
+    "test_term_prediction_coverage": 0.3686214775323686,
+    "test_term_source_instances": 743,
+    "test_term_prediction_instances": 806,
+    "test_term_hits": 573,
+    "test_term_false_positives": 233
+  }
+]

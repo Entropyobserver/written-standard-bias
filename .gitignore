@@ -1,0 +1,50 @@
+.cache/
+.codex/
+.agents/
+__pycache__/
+*.pyc
+
+# Local/editor files
+.idea/
+.vscode/
+*.tmp
+*.bak
+
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# Downloaded template archive / expanded source copy.
+# The needed ACL files are copied into paper/wmt_template/.
+paper/wmt_template/acl-style-files-master.zip
+paper/wmt_template/acl-style-files-master/
+
+# Raw crawl cache is not needed for the release repo.
+crawl_data/
+
+# This is a standalone release repository; do not embed it as a submodule.
+release/norwegian-petroleum-corpus/
+
+# Keep evaluation summaries and predictions under outputs/, but avoid
+# heavyweight training checkpoints and model artifacts.
+outputs/**/training/
+outputs/**/checkpoint-*/
+outputs/**/final_model/
+outputs/**/*.pt
+outputs/**/*.pth
+outputs/**/*.bin
+outputs/**/*.safetensors
+outputs/**/events.out.tfevents*
+outputs/**/runs/
+outputs/**/wandb/
+
+# Temporary annotation bundles / draft analyses.
+outputs/slide_validation.zip
+outputs/slide_validation/draft_analysis/

@@ -1,0 +1,10 @@
+/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/conda_envs/mt_old_clone/lib/python3.9/site-packages/transformers/utils/hub.py:110: FutureWarning: Using `TRANSFORMERS_CACHE` is deprecated and will be removed in v5 of Transformers. Use `HF_HOME` instead.
+  warnings.warn(
+11:16:36  Paper2 eval: model=bokmal test=original
+11:16:36  Test examples: 1742
+`torch_dtype` is deprecated! Use `dtype` instead!
+11:19:43  seed=42  BLEU=0.5851  chrF=77.52  FTA=0.8678861788617886
+11:22:26  seed=123  BLEU=0.5852  chrF=77.31  FTA=0.8648373983739838
+11:25:09  seed=456  BLEU=0.5843  chrF=77.45  FTA=0.866869918699187
+11:25:09  SUMMARY  BLEU=0.5849+/-0.0005  chrF=77.43+/-0.11  FTA=0.8665311653116531
+11:25:09  Results saved to /gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_eval_model_bokmal_test_original

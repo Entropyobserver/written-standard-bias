@@ -1,0 +1,19 @@
+{
+  "model": "bokmal",
+  "test": "flores_nno",
+  "seed": 42,
+  "bleu": 0.15307255031194522,
+  "chrf": 48.27921801172661,
+  "fta": 0.4,
+  "fta_mean_sentence": 0.4,
+  "fta_coverage": 0.004940711462450593,
+  "term_recall": 0.4,
+  "term_precision": 0.09523809523809523,
+  "term_f1": 0.15384615384615385,
+  "term_source_coverage": 0.004940711462450593,
+  "term_prediction_coverage": 0.020750988142292492,
+  "term_source_instances": 5,
+  "term_prediction_instances": 21,
+  "term_hits": 2,
+  "term_false_positives": 19
+}

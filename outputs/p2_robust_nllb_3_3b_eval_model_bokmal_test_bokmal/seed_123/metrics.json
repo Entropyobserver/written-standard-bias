@@ -1,0 +1,20 @@
+{
+  "model_id": "nllb_3_3b",
+  "model": "bokmal",
+  "test": "bokmal",
+  "seed": 123,
+  "bleu": 0.6455930387335589,
+  "chrf": 81.24667705735756,
+  "fta": 0.8529411764705882,
+  "fta_mean_sentence": 0.8472762645914397,
+  "fta_coverage": 0.39146991622239147,
+  "term_recall": 0.8529411764705882,
+  "term_precision": 0.7233560090702947,
+  "term_f1": 0.7828220858895705,
+  "term_source_coverage": 0.39146991622239147,
+  "term_prediction_coverage": 0.3869002284843869,
+  "term_source_instances": 748,
+  "term_prediction_instances": 882,
+  "term_hits": 638,
+  "term_false_positives": 244
+}

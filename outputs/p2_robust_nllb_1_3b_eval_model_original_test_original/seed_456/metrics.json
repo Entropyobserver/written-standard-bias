@@ -1,0 +1,20 @@
+{
+  "model_id": "nllb_1_3b",
+  "model": "original",
+  "test": "original",
+  "seed": 456,
+  "bleu": 0.6495333496953849,
+  "chrf": 81.21162388961095,
+  "fta": 0.7520325203252033,
+  "fta_mean_sentence": 0.7539100684261975,
+  "fta_coverage": 0.39150401836969,
+  "term_recall": 0.7520325203252033,
+  "term_precision": 0.7115384615384616,
+  "term_f1": 0.7312252964426877,
+  "term_source_coverage": 0.39150401836969,
+  "term_prediction_coverage": 0.36280137772675086,
+  "term_source_instances": 984,
+  "term_prediction_instances": 1040,
+  "term_hits": 740,
+  "term_false_positives": 300
+}

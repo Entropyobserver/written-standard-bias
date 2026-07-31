@@ -1,0 +1,23 @@
+{
+  "data_condition": "bokmal",
+  "seed": 123,
+  "configuration": {
+    "r": 8,
+    "alpha": 64,
+    "dropout": 0.0
+  },
+  "final_model_path": "/gorilla/proj/uppmax2026-1-123/uppmax2026-1-123/private/yaxj1/mt_oil_no_bokmal/outputs/p2_train_bokmal/seed_123/training/final_model",
+  "val_bleu": 0.6118358800848114,
+  "val_chrf": 78.83348039285283,
+  "val_loss": 0.649671733379364,
+  "test_bleu": 0.6129294061297192,
+  "test_chrf": 79.19669529371221,
+  "test_fta": 0.856951871657754,
+  "test_fta_mean_sentence": 0.8498702983138782,
+  "test_fta_coverage": 0.39146991622239147,
+  "dataset_sizes": {
+    "train": 10114,
+    "val": 1305,
+    "test": 1313
+  }
+}

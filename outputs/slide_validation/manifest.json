@@ -1,0 +1,46 @@
+{
+  "total_candidates": 4506,
+  "requested_n_per_slide_label": 30,
+  "selected_items": 120,
+  "selected_by_slide_label": {
+    "nb_only": 30,
+    "nn_only": 30,
+    "mixed": 30,
+    "uncertain": 30
+  },
+  "shortages": {},
+  "pools": [
+    {
+      "pool": "original_reference",
+      "model": "original_subsampled",
+      "test_set": "original",
+      "seed": 42,
+      "field": "reference"
+    },
+    {
+      "pool": "bokmal_reference",
+      "model": "original_subsampled",
+      "test_set": "bokmal",
+      "seed": 42,
+      "field": "reference"
+    },
+    {
+      "pool": "original_subsampled_prediction",
+      "model": "original_subsampled",
+      "test_set": "original",
+      "seed": 42,
+      "field": "prediction"
+    },
+    {
+      "pool": "bokmal_prediction",
+      "model": "bokmal",
+      "test_set": "original",
+      "seed": 42,
+      "field": "prediction"
+    }
+  ],
+  "annotation_sheet": "D:\\J\\Desktop\\language_technology\\course\\projects_AI\\mt_oil_no_bokmal\\outputs\\slide_validation\\slide_validation_sheet.csv",
+  "hidden_key": "D:\\J\\Desktop\\language_technology\\course\\projects_AI\\mt_oil_no_bokmal\\outputs\\slide_validation\\slide_validation_key.csv",
+  "instructions": "D:\\J\\Desktop\\language_technology\\course\\projects_AI\\mt_oil_no_bokmal\\outputs\\slide_validation\\instructions.md",
+  "note": "The sample is stratified by SLIDE label for validation, not corpus prevalence estimation."
+}

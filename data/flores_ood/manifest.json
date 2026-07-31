@@ -1,0 +1,18 @@
+{
+  "dataset": "Muennighoff/flores200",
+  "split": "devtest",
+  "tests": {
+    "flores_nob": {
+      "source_lang": "eng_Latn",
+      "target_lang": "nob_Latn",
+      "path": "data\\flores_ood\\flores_nob\\devtest.json",
+      "size": 1012
+    },
+    "flores_nno": {
+      "source_lang": "eng_Latn",
+      "target_lang": "nno_Latn",
+      "path": "data\\flores_ood\\flores_nno\\devtest.json",
+      "size": 1012
+    }
+  }
+}

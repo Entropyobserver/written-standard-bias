@@ -1,0 +1,436 @@
+{
+  "qc": {
+    "files": {
+      "review1": "D:\\J\\Desktop\\language_technology\\course\\projects_AI\\mt_oil_no_bokmal\\outputs\\human_eval\\human_eval_sheet1.csv",
+      "review2": "D:\\J\\Desktop\\language_technology\\course\\projects_AI\\mt_oil_no_bokmal\\outputs\\human_eval\\human_eval_sheet2.csv"
+    },
+    "n_rows": {
+      "review1": 100,
+      "review2": 100
+    },
+    "same_item_order": true,
+    "same_item_set": true,
+    "strata_counts": {
+      "shift": 50,
+      "control": 50
+    },
+    "system_a_model_counts": {
+      "bokmal": 49,
+      "original_subsampled": 51
+    }
+  },
+  "individual": {
+    "review1": {
+      "n_items": 100,
+      "model_means": {
+        "bokmal": {
+          "adequacy": 1.93,
+          "bokmal": 1.92
+        },
+        "original_subsampled": {
+          "adequacy": 1.91,
+          "bokmal": 0.94
+        }
+      },
+      "paired_delta_bokmal_minus_original_subsampled": {
+        "adequacy": 0.02,
+        "bokmal": 0.98
+      },
+      "preference_counts": {
+        "bokmal": 59,
+        "tie": 25,
+        "original_subsampled": 16
+      },
+      "preference_sign_test_p_excluding_ties": 6.114156572521502e-07,
+      "by_stratum": {
+        "control": {
+          "preference_counts": {
+            "tie": 25,
+            "original_subsampled": 16,
+            "bokmal": 9
+          },
+          "bokmal": {
+            "adequacy": 1.88,
+            "bokmal": 1.84
+          },
+          "original_subsampled": {
+            "adequacy": 1.88,
+            "bokmal": 1.8
+          },
+          "delta_bokmal_minus_original_subsampled": {
+            "adequacy": 0.0,
+            "bokmal": 0.04
+          },
+          "preference_sign_test_p_excluding_ties": 0.2295229434967041
+        },
+        "shift": {
+          "preference_counts": {
+            "bokmal": 50
+          },
+          "bokmal": {
+            "adequacy": 1.98,
+            "bokmal": 2.0
+          },
+          "original_subsampled": {
+            "adequacy": 1.94,
+            "bokmal": 0.08
+          },
+          "delta_bokmal_minus_original_subsampled": {
+            "adequacy": 0.04,
+            "bokmal": 1.92
+          },
+          "preference_sign_test_p_excluding_ties": 1.7763568394002505e-15
+        }
+      }
+    },
+    "review2": {
+      "n_items": 100,
+      "model_means": {
+        "bokmal": {
+          "adequacy": 1.93,
+          "bokmal": 1.92
+        },
+        "original_subsampled": {
+          "adequacy": 1.91,
+          "bokmal": 0.94
+        }
+      },
+      "paired_delta_bokmal_minus_original_subsampled": {
+        "adequacy": 0.02,
+        "bokmal": 0.98
+      },
+      "preference_counts": {
+        "bokmal": 59,
+        "tie": 25,
+        "original_subsampled": 16
+      },
+      "preference_sign_test_p_excluding_ties": 6.114156572521502e-07,
+      "by_stratum": {
+        "control": {
+          "preference_counts": {
+            "tie": 25,
+            "original_subsampled": 16,
+            "bokmal": 9
+          },
+          "bokmal": {
+            "adequacy": 1.88,
+            "bokmal": 1.84
+          },
+          "original_subsampled": {
+            "adequacy": 1.88,
+            "bokmal": 1.8
+          },
+          "delta_bokmal_minus_original_subsampled": {
+            "adequacy": 0.0,
+            "bokmal": 0.04
+          },
+          "preference_sign_test_p_excluding_ties": 0.2295229434967041
+        },
+        "shift": {
+          "preference_counts": {
+            "bokmal": 50
+          },
+          "bokmal": {
+            "adequacy": 1.98,
+            "bokmal": 2.0
+          },
+          "original_subsampled": {
+            "adequacy": 1.94,
+            "bokmal": 0.08
+          },
+          "delta_bokmal_minus_original_subsampled": {
+            "adequacy": 0.04,
+            "bokmal": 1.92
+          },
+          "preference_sign_test_p_excluding_ties": 1.7763568394002505e-15
+        }
+      }
+    }
+  },
+  "inter_reviewer_agreement": {
+    "adequacy_a_0_1_2": {
+      "exact": 1.0,
+      "kappa": 1.0,
+      "quadratic_weighted_kappa": 1.0,
+      "confusion": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          6,
+          0
+        ],
+        [
+          0,
+          0,
+          94
+        ]
+      ]
+    },
+    "adequacy_b_0_1_2": {
+      "exact": 1.0,
+      "kappa": 1.0,
+      "quadratic_weighted_kappa": 1.0,
+      "confusion": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          10,
+          0
+        ],
+        [
+          0,
+          0,
+          90
+        ]
+      ]
+    },
+    "bokmal_a_0_1_2": {
+      "exact": 1.0,
+      "kappa": 1.0,
+      "quadratic_weighted_kappa": 1.0,
+      "confusion": [
+        [
+          25,
+          0,
+          0
+        ],
+        [
+          0,
+          8,
+          0
+        ],
+        [
+          0,
+          0,
+          67
+        ]
+      ]
+    },
+    "bokmal_b_0_1_2": {
+      "exact": 1.0,
+      "kappa": 1.0,
+      "quadratic_weighted_kappa": 1.0,
+      "confusion": [
+        [
+          22,
+          0,
+          0
+        ],
+        [
+          0,
+          12,
+          0
+        ],
+        [
+          0,
+          0,
+          66
+        ]
+      ]
+    },
+    "preference_raw_a_b_tie": {
+      "exact": 1.0,
+      "kappa": 1.0,
+      "confusion": [
+        [
+          34,
+          0,
+          0
+        ],
+        [
+          0,
+          41,
+          0
+        ],
+        [
+          0,
+          0,
+          25
+        ]
+      ]
+    },
+    "preference_model_winner": {
+      "exact": 1.0,
+      "kappa": 1.0,
+      "confusion": [
+        [
+          59,
+          0,
+          0
+        ],
+        [
+          0,
+          16,
+          0
+        ],
+        [
+          0,
+          0,
+          25
+        ]
+      ]
+    },
+    "model_normalized_scores": {
+      "bokmal_adequacy": {
+        "exact": 1.0,
+        "kappa": 1.0,
+        "quadratic_weighted_kappa": 1.0,
+        "confusion": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            7,
+            0
+          ],
+          [
+            0,
+            0,
+            93
+          ]
+        ]
+      },
+      "bokmal_bokmal": {
+        "exact": 1.0,
+        "kappa": 1.0,
+        "quadratic_weighted_kappa": 1.0,
+        "confusion": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            8,
+            0
+          ],
+          [
+            0,
+            0,
+            92
+          ]
+        ]
+      },
+      "original_subsampled_adequacy": {
+        "exact": 1.0,
+        "kappa": 1.0,
+        "quadratic_weighted_kappa": 1.0,
+        "confusion": [
+          [
+            0,
+            0,
+            0
+          ],
+          [
+            0,
+            9,
+            0
+          ],
+          [
+            0,
+            0,
+            91
+          ]
+        ]
+      },
+      "original_subsampled_bokmal": {
+        "exact": 1.0,
+        "kappa": 1.0,
+        "quadratic_weighted_kappa": 1.0,
+        "confusion": [
+          [
+            47,
+            0,
+            0
+          ],
+          [
+            0,
+            12,
+            0
+          ],
+          [
+            0,
+            0,
+            41
+          ]
+        ]
+      }
+    }
+  },
+  "combined": {
+    "n_annotation_passes": 200,
+    "n_items": 100,
+    "model_means": {
+      "bokmal": {
+        "adequacy": 1.93,
+        "bokmal": 1.92
+      },
+      "original_subsampled": {
+        "adequacy": 1.91,
+        "bokmal": 0.94
+      }
+    },
+    "paired_delta_bokmal_minus_original_subsampled": {
+      "adequacy": 0.02,
+      "bokmal": 0.98
+    },
+    "preference_counts": {
+      "bokmal": 118,
+      "tie": 50,
+      "original_subsampled": 32
+    },
+    "preference_sign_test_p_excluding_ties_treating_passes_as_units": 8.839070431755034e-13,
+    "by_stratum": {
+      "control": {
+        "preference_counts": {
+          "tie": 50,
+          "original_subsampled": 32,
+          "bokmal": 18
+        },
+        "bokmal": {
+          "adequacy": 1.88,
+          "bokmal": 1.84
+        },
+        "original_subsampled": {
+          "adequacy": 1.88,
+          "bokmal": 1.8
+        },
+        "delta_bokmal_minus_original_subsampled": {
+          "adequacy": 0.0,
+          "bokmal": 0.04
+        },
+        "preference_sign_test_p_excluding_ties_treating_passes_as_units": 0.06490864707227217
+      },
+      "shift": {
+        "preference_counts": {
+          "bokmal": 100
+        },
+        "bokmal": {
+          "adequacy": 1.98,
+          "bokmal": 2.0
+        },
+        "original_subsampled": {
+          "adequacy": 1.94,
+          "bokmal": 0.08
+        },
+        "delta_bokmal_minus_original_subsampled": {
+          "adequacy": 0.04,
+          "bokmal": 1.92
+        },
+        "preference_sign_test_p_excluding_ties_treating_passes_as_units": 1.5777218104420236e-30
+      }
+    }
+  }
+}

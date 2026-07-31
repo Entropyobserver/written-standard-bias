@@ -1,0 +1,121 @@
+﻿item_id,sentence,human_label_nb_only_nn_only_mixed_uncertain,notes
+S001,"Olje-vann kontakt i brønn 6407/1-5 S er den samme som i funnbrønnen, og trykkdata indikerer kommunikasjon mellom nord og sør.",nb_only,
+S002,Dette er den sjuande letebrønnen i utvinningstillatelse 532.,mixed,"sjuande (nn) + ""utvinningstillatelse"" (nb)"
+S003,"Den totale petroleumsproduksjonen i 2011 er om lag 219,4 millionar standard kubikkmeter oljeekvivalentar (MSm3 o.e.).",nn_only,
+S004,Målet for avgrensingsbrønnen 6406/9-2 var å avgrense funnet.,nn_only,"avgrensingsbrønnen (nn-form; jf. S114 ""avgrensningsbrønn"" som er nb-varianten); revidert frå nb_only"
+S005,Boreprogrammet for brønn 6406/6-4 gjeld boring av undersøkingsbrønn i utvinningsløyve 510.,nn_only,løyve tydelig nn
+S006,"Arvid Østhus, underdirektør Utbygging og drift, tel.",uncertain,hovedsakleg namn/tittel
+S007,Det går fram av Oljedirektoratets nye ressursrapport.,nb_only,
+S008,Både Gjallarryggen og Vøringsutstikkeren er koblet til Jan Mayen-brudssonen.,nb_only,
+S009,"Væskeproduksjonen i oktober fordeler seg slik: 1 868 000 fat olje, 278 000 fat NGL og 84 000 fat kondensat.",nb_only,
+S010,Planlagt produksjonsstart er i 2020.,nb_only,
+S011,"Brønn 6305/4-2 S skal borast frå boreinnretninga West Navigator i posisjon 63°38 14,97 nord og 5°17 54,15 aust etter avslutting av boring av produksjonsbrønn 6305/7-D 3 H for A/S Norske Shell på Ormen Langefeltet.",nn_only,"borast, ""frå"", ""innretninga"""
+S012,"Kontakt i Oljedirektoratet Bjørn Rasen, tel.",uncertain,"kort, namn/forkorting"
+S013,61° 35.6' N,uncertain,berre koordinat
+S014,"Totalvolumet, 13 052 kubikkmeter, var betydelig høyere i 2009 sammenlignet med tidligere år.",nb_only,
+S015,"Det totale gassalet var 9,6 milliardar standard kubikkmeter (GSm3), dette er 0,8 GSm3 meir enn månaden før.",nn_only,"milliardar, ""meir"", ""månaden"""
+S016,Kontaktperson i OD: Morten Sand,uncertain,namn/forkorting
+S017,"Arealet i dette løyvet består av delar av blokkene 25/5, 25/6, 25/8 og 25/9.",mixed,"løyvet/""delar"" (nn) + ""blokkene"" (nb)"
+S018,IOR-prisen til Statoil for undergrunnsarbeidet på Osebergfeltet >,nb_only,
+S019,Den første dagen i hver måned er markeret med gule punkter.,nb_only,
+S020,Arealet i denne tillatelsen ligger i den sørøstlige delen av Nordsjøen og består av den østlige delen av blokk 10/4.,nb_only,
+S021,#NAME?,uncertain,"korrupt Excel-celle, ikkje reell tekst; revidert frå nb_only"
+S022,Juni 2009,uncertain,berre dato
+S023,"Væskeproduksjonen i august fordeler seg slik: 1 548 000 fat olje, 340 000 fat NGL og 30 000 fat kondensat i gjennomsnitt per dag.",nb_only,
+S024,"Forbindelsen har imidlertid kun rådgivende myndighet; dersom parterne ikke kan være enige, kan Kustvakten være involvert.",nb_only,
+S025,"På Ekofisk-feltet er utvinningsgraden økt fra 17 til 50 prosent, sa Olje- og energiminister Åslaug Haga i innledning.",nb_only,
+S026,Fase 1 (syden) er planlagt å starte produksjon i 2020 og fase 2 (norden) i 2023.,nb_only,
+S027,Pil/Bue er to olje- og gassfunn i Norskehavet.,nb_only,
+S028,Troll oljefelt,uncertain,berre feltnamn
+S029,Brønnen påviste olje i Brentgruppen og i Statfjordformasjonen.,nb_only,
+S030,"Brønn 6507/3-12 A skal borast med boreinnretninga Deepsea Bergen i posisjon 65°58' 3,93"" nord og 7°56' 1,64"" aust.",nn_only,"borast, ""innretninga"", ""aust"""
+S031,Havdypet er 94 meter.,nb_only,
+S032,Ressurser per havareal,nb_only,Ressurser med -er
+S033,Dei andre rettshavarane er Repsol Exploration Norge ASA (40 prosent) og Petrolia Norway AS (10 prosent).,nn_only,"Dei, ""rettshavarane"""
+S034,Norwegian Continental Shelf No.2-2015 >>,uncertain,engelsk/nummer
+S035,"For brønner på norsk sokkel der selskapet er rettighetshaver, har avviket mellom tiden som er brukt på boring og komplettering i forhold til forventet tidsbruk, gått kraftig opp.",nb_only,
+S036,Datainnsamling,uncertain,eitt substantiv utan språklege ledetrådar
+S037,Øvrige rettighetshavere er Faroe Petroleum Norge AS (30 prosent) og Centrica Resources (20 prosent).,nb_only,
+S038,Havdypet er 106 meter.,nb_only,
+S039,"Dette er den første letebrønnen som bores i løyvet, men den tredje brønnen i arealet som løyvet ligg i.",mixed,"bores (nb) + ""løyvet""/""ligg"" (nn)"
+S040,"Oljedirektoratet er på jakt etter den beste strategien for utforsking av områda, og leiter derfor etter selskapa med den beste kunnskapen og dei beste søknadene, seier ho.",mixed,fleire nn- og nb-former
+S041,Leting >>,uncertain,"kort, ""Leting"" tvilsam"
+S042,"Brønn 6610/10-1 skal borast frå boreinnretninga West Alpha i posisjon 66° 14` 09,52"" nord og 10° 02´ 46,89"" aust.",nn_only,"borast, ""frå"", ""innretninga"", ""aust"""
+S043,Produksjonsstart på Njord var i 1997.,nb_only,
+S044,"Dei andre rettshavarane er North Energy ASA med 20 prosent, Rocksource ASA med 20 prosent og Det norske oljeselskap ASA med 20 prosent.",nn_only,"Dei, ""rettshavarane"""
+S045,Endelege produksjonstal vil bli gjort offentleg i begynnelsen av november 2003.,mixed,"endelege/""offentleg"" (nn) + ""begynnelsen"" (nb)"
+S046,Oktober 2007,uncertain,dato
+S047,Erfaring fra drift og vedlikehald av ubemannede plattformer,mixed,"fra (nb) + ""vedlikehald"" (nn)"
+S048,Ifølge NPF er IO inne i ein ny vår.,mixed,"ifølge (nb) + ""ein"" (nn)"
+S049,Potensialet for petroleumsverksemd er ein viktig del av avgjerdsgrunnlaget når opning av områda skal vurderast.,nn_only,
+S050,Jan-juni 2006,uncertain,dato
+S051,StatoilHydro ASA:,uncertain,selskapsnamn
+S052,Jan-sep 2005,uncertain,dato
+S053,"Endelege produksjonstal for januar 2013 viser ein gjennomsnittleg dagsproduksjon på om lag 1,484 millionar fat olje, 0,392 millionar fat NGL og kondensat og totalt 10,5 GSm3 gass for sal.",nn_only,
+S054,"Arktis består av de to dypvannsbassengene Amerasiabassenget og Eurasiabassenget, som er skilt ut av Lomonosovryggen.",nb_only,
+S055,Statoil Petroleum AS er operatør med 40 prosent del.,nb_only,
+S056,4-Sep,uncertain,dato
+S057,Jan-Juni 2006,uncertain,dato
+S058,Juni 2004,uncertain,dato
+S059,4-Sep,uncertain,dato
+S060,Dei andre rettshavarane er Petoro AS med 30 prosent og ExxonMobil E&P Norway AS med 13 prosent.,nn_only,"Dei, ""rettshavarane"""
+S061,"Arvid Østhus, underdirektør Utbygging og drift, tlf.",uncertain,namn/forkorting
+S062,Utstillingsleder Geir Mossige Johannesen forteller at det var Oljemuseet som tok initiativet til å få OD på museum:,nb_only,
+S063,"Brønnbane 32/2-1 skal borast frå boreinnretninga Transocean Winner i posisjon 60°46 29,35 N og 04°20 00,36 Ø.",nn_only,"borast, ""frå"", ""innretninga"""
+S064,Første dag i månaden er markeret med gule prikker.,mixed,"månaden (nn) + ""markeret"" (nb)"
+S065,"Prøvene fra de grunne brønnene er fullkjerner fra havbunnen, gjennom både kilde- og reservoarbergarter.",nb_only,
+S066,Ofte er det tåke i sommarhalvåret.,nn_only,sommarhalvåret
+S067,Brønnen ble boret til et vertikalt dyp på 5664 meter under havoverflaten.,nb_only,
+S068,I grunngjevinga for prisen heiter det at ”Fridtjof Riis har lagt ned eit enormt arbeid og personleg engasjement i dette forskingsarbeidet.,nn_only,"grunngjevinga, ""heiter"", ""eit"", ""personleg"", ""forskingsarbeidet"""
+S069,+47 51 87 61 00,uncertain,telefonnummer
+S070,Brukeren kan også benytte en innlagt søkefunksjon.,nb_only,
+S071,Brønnen blir bora om lag 16 kilometer vest for Gjøafeltet.,nn_only,"""bora"" (nn); ""blir"" er ikkje nb-eksklusivt, ingen reell nb-markør; revidert frå mixed"
+S072,Oljedirektoratet har delt ut IOR-prisen årlig siden 1998.,nb_only,
+S073,"34/10-55 S ble boret til et vertikalt og målt dyp på henholdsvis 3228 og 7811 meter under havflaten, og ble avsluttet i Lundeformasjonen i trias.",nb_only,
+S074,"1999 - Saga for Foam assisted Water alternating Gas injection, FAWAG pilot i Snorrefeltet",uncertain,engelsk/årstall
+S075,Dette er den niande brønnen som blir bora innafor løyvet sitt areal.,nn_only,"""niande""/""bora""/""innafor""/""løyvet"" (nn); ""blir"" er ikkje nb-eksklusivt, ingen reell nb-markør; revidert frå mixed"
+S076,Juli 2008,uncertain,dato
+S077,Norwegian Continental Chelf No.2-2015 >>,uncertain,engelsk (feilskrive)
+S078,"Det totale gass salet var 10,6 milliardar standard kubikkmeter (GSm3), dette er 0,2 GSm3 mindre enn månaden før.",nn_only,"milliardar, ""månaden"""
+S079,Last ned pdf: Kart,uncertain,"kort imperativ, ingen sikre skillemerke"
+S080,"Kontaktperson i Oljedirektoratet Bjørn Rasen, tlf.",uncertain,namn/forkorting
+S081,"Bortsett frå nokre få av mannskapet, blei alle beordra til å forlate riggen og blei seinare plukka opp av forsyningsbåten.",nn_only,"frå, ""nokre"", ""blei"", ""beordra"", ""seinare"", ""plukka"""
+S082,Letaktivitet >>,uncertain,"kort, ""Letaktivitet"""
+S083,"I juli ble det produsert 21,5 millioner standard kubikkmeter oljeekvivalenter (Sm3 o.e).",nb_only,
+S084,Det var nye rekord.,nb_only,
+S085,Franklin Petroleum Limited,uncertain,selskapsnamn
+S086,"Kalmar Ildstad, Nordsjøen sør",uncertain,namn/stad
+S087,"Men funna som blir gjort, er i snitt mykje mindre enn før.",nn_only,"""funna""/""mykje"" (nn); ""blir"" er ikkje nb-eksklusivt, ingen reell nb-markør; revidert frå mixed"
+S088,Sm3 utvinnbare o.e.,uncertain,forkortingar
+S089,Resultatene fra innsamlingen inngår i faktaslaget for Stortingens vurdering av om disse områdene skal åpnes for petroleumsvirksomhet eller ikke.,nb_only,
+S090,9-Feb,uncertain,dato
+S091,Franklin Petroleum Limited,uncertain,selskapsnamn
+S092,"Den totale petroleumsproduksjonen så langt i 2013 er om lag 159,3 millionar standard kubikkmeter oljeekvivalentar (MSm3 o.e.).",nn_only,"millionar, ""oljeekvivalentar"""
+S093,Oljeproduksjonen er 4 prosent over ODs prognose for april og 2 prosent over oljeproduksjonen i april i fjor.,nb_only,
+S094,"Av dette er om lag 7,6 MSm3 o.e olje, om lag 1,9 MSm3 o.e NGL og kondensat, og det er selt om lag 10,3 MSm3 o.e gass.",nn_only,selt (nn for solgt)
+S095,Gassled område A_RNB2018,uncertain,kode/navn
+S096,Troll-dilemma Det er flere felt med tynne oljesoner på norsk sokkel.,nb_only,
+S097,51 87 64 74,uncertain,telefonnummer
+S098,Hans kollega Joselito Madi sier at arbeidsmiljøet i Norge er bedre enn i mange land.,nb_only,
+S099,Juni 2009,uncertain,dato
+S100,"Øvrige rettighetshavere er North Energy ASA med 20 prosent, Rocksource ASA med 20 prosent og Det norske oljeselskap ASA med 20 prosent.",nb_only,
+S101,Brønnen 16/2-10 ble boret om lag fire kilometer nord for 16/2-8.,nb_only,
+S102,Rettighetshavere i utvinningstillatelse 107 (se OD' fakta sider ),nb_only,
+S103,"IOR-prisen anerkjenner kreativitet, mot og risikovilje når det gjelder å ta i bruk teknologi som kan øke utvinningen utover det som er forventet med dagens planer og metoder, sier Oljedirektoratets oljedirektør Bente Nyland.",nb_only,
+S104,Fase 1 (sør) er planlagt i produksjon i 2020 og fase 2 (nord) i 2023.,nb_only,
+S105,ODs kontaktperson er hovedingenjör Jan Stenløkk tel.,uncertain,"blanding av språk (svensk form ""ingenjör"") og forkorting"
+S106,Kommisjonen har 21 medlemmer og er svært viktig for å få endelig fastlagt grensene for kyststatenes kontinentalsokkel utenfor 200 nautiske mil.,nb_only,
+S107,Oktober 2007,uncertain,dato
+S108,Hroar Hermansen får takk for innsatsen av oljedirektør Bente Nyland.,nb_only,
+S109,"Brønnen ble boret til et vertikalt dyp på 3945 meter under havflaten, og ble avsluttet i Niseformasjonen i øvre kritt.",nb_only,
+S110,9-Feb,uncertain,dato
+S111,Telefon/ E-post,uncertain,kort
+S112,Undersøkingsbrønn 7120/1-3 er den første leitebrønnen i utvinningstillatelse 492.,mixed,"leitebrønnen (nn) + ""utvinningstillatelse"" (nb)"
+S113,"Væskeproduksjonen i januar fordeler seg slik: 1 627 000 fat olje, 378 000 fat NGL og 32 000 fat kondensat i gjennomsnitt per dag.",nb_only,
+S114,"Boreprogrammet for brønn 35/9-8 gjelder boring av en avgrensningsbrønn i utvinningstillatelse 418, der Wintershall er operatør med en eierandel på 35 prosent.",nb_only,
+S115,"Brønn 16/2-9 S skal borast frå boreinnretninga Transocean Leader i posisjon 58°5446,39N 02°2622,80Ø etter avslutting av boring av undersøkingsbrønn 16/2-8 for Statoil i utvinningsløyve 265.",nn_only,"borast, ""frå"", ""innretninga"", ""avslutting"", ""utvinningsløyve"""
+S116,"Morten Smelror, direktør for NGU, og oljedirektør Bente Nyland er glade for den nye avtalen.",nb_only,
+S117,Gass/olje-forholdet er ca.,uncertain,kort med forkorting
+S118,Juni 2004,uncertain,dato
+S119,Brønnbanen skal bores fra boreinnretningen Mærsk Giant som nå avslutter boring av brønn 7/1-2 i PL 271.,nb_only,
+S120,"Bjørn Rasen, tlf.",uncertain,namn/forkorting
